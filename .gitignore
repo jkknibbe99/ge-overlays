@@ -1,9 +1,0 @@
-# Python venv
-Include/
-Lib/
-Scripts/
-pyvenv.cfg
-
-orthophotos/
-KMZs/
-overlay.kml
