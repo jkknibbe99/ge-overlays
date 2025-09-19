@@ -1,0 +1,13 @@
+{
+  "name": "91-150",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "<a href=\"https://www.maptiler.com/engine/\">Rendered with MapTiler Engine</a>, non-commercial use only",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "14",
+  "maxzoom": "21",
+  "scale": "1.000000",
+  "bounds": [-85.87730876, 42.96206402, -85.87544511, 42.97153808],
+  "profile": "mercator"
+}
