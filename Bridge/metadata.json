@@ -1,0 +1,13 @@
+{
+  "name": "Bridge",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "<a href=\"https://www.maptiler.com/engine/\">Rendered with MapTiler Engine</a>, non-commercial use only",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "14",
+  "maxzoom": "20",
+  "scale": "1.000000",
+  "bounds": [-85.87836833, 42.96226774, -85.87525017, 42.97803910],
+  "profile": "mercator"
+}
